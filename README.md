@@ -2,7 +2,7 @@
 R scripts to explain the algorithms of simplex projection and S-map.
 In the scripts, simplex projection (Sugihara & May 1990) and S-map (Sugihara 1994) are implemented without using existing EDM packages such as rEDM (Ye et al. 2015) or multispatialCCM (Clark et al. 2015).
 
-This is a supplement of Ushio & Kawatsu (2020) "Forecasting ecological time series using empirical dynamic modeling: a tutorial for simplex projection and S-map" DOI:10.1007/978-981-15-7953-0_9. In Mougi A ed. *"Diversity of Functional Traits and Interactions"* pp.193–213 Springer, Singapore.
+This is a supplement of Ushio & Kawatsu (2020) "Forecasting ecological time series using empirical dynamic modeling: a tutorial for simplex projection and S-map"  In Mougi A ed. *"Diversity of Functional Traits and Interactions"* pp.193–213 Springer, Singapore. https://link.springer.com/chapter/10.1007%2F978-981-15-7953-0_9
 
 # References
 - Sugihara, G. & May, R. M. Nonlinear forecasting as a way of distinguishing chaos from measurement error in time series. Nature 344, 734–741 (1990)
